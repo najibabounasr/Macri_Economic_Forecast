@@ -1,0 +1,25 @@
+,Best Method,ADF Statistic
+FEDFUNDS,None,-14.758965406191104
+GDP,Rolling Mean Subtraction + Differencing,-10.650841394491769
+CPIAUCSL,Rolling Mean Subtraction + Differencing,-10.814729043510738
+CUSR0000SAH1,Rolling Mean Subtraction,-14.39070302932635
+CPILFESL,Simple Differencing,-15.734143807238867
+PCE,None,-20.438020834570555
+PRFI,Rolling Mean Subtraction + Differencing,-11.546690520618856
+PNFI,Rolling Mean Subtraction + Differencing,-9.802463777435355
+EXPGS,Rolling Mean Subtraction + Differencing,-11.260903152014185
+HOUST,None,-21.174853587976788
+DSPI,Simple Differencing,-16.41132252730499
+AAA,Rolling Mean Subtraction + Differencing,-11.15661864390584
+BAA,Rolling Mean Subtraction + Differencing,-11.69023128984225
+WTISPLC,None,-13.047012223251777
+IMPGS,Simple Differencing,-11.728421627974864
+GCE,Rolling Mean Subtraction + Differencing,-10.34611996454948
+FGCE,Rolling Mean Subtraction + Differencing,-12.338567581575136
+GDPCTPI,Rolling Mean Subtraction + Differencing,-6.773547145182205
+PCEPI,Rolling Mean Subtraction + Differencing,-10.832595378226054
+PCEPILFE,Rolling Mean Subtraction,-14.177953998898516
+PAYEMS,None,-18.68917148665886
+UNRATE,None,-22.360695849676137
+INDPRO,Simple Differencing,-11.835800415401183
+CUMFNS,None,-16.45869291903001
